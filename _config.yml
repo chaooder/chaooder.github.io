@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tommy's Playground!
+title: Tommy's Playground
 subtitle: Life Musings of a Science & Tech Geek
 description: >- # this means to ignore newlines until "baseurl:"
   This site is under construction, please check back soon!
@@ -40,7 +40,7 @@ avatar:
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chaooder.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
@@ -54,5 +54,5 @@ medium_url: "https://medium.com/@tommyyong"
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-remote_theme: jekyll-theme-prologue
+theme: jekyll-theme-prologue
 collections: [sections]
