@@ -1,7 +1,6 @@
 title: Tommy's Playground
 subtitle: Life Musings of a Science & Tech Geek
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is under construction, please check back soon!
 author: Yong Chao Tommy, Yong
 email: yongyct@gmail.com
 avatar: 
@@ -12,14 +11,14 @@ url: "https://chaooder.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-facebook_url: "https://www.facebook.com/chao.yong.5"
 linkedin_url: "https://linkedin.com/in/yongyct/"
 github_url: "https://github.com/chaooder"
+stackoverflow_url: "https://stackoverflow.com/users/6540762/chaooder"
 medium_url: "https://medium.com/@tommyyong"
 500px_url: "https://500px.com/chaooder"
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-145379258-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: jekyll-theme-prologue
