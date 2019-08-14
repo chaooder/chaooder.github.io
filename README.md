@@ -1,6 +1,6 @@
 # My Website
 Documenting my Life Musings :)
-* https://chaooder.github.io/
+* https://yongyct.github.io/
 
 # Getting Started
 ## Local Development
