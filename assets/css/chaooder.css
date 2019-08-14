@@ -47,6 +47,15 @@
 	.flex-container .flex-text-holder {
 		flex: 1.62;
 	}
+	.flex-container .flex-text-holder p {
+		margin: 50px;
+	}
+}
+
+@media screen and (max-width: 961px) {
+	.flex-container .flex-text-holder p {
+		margin: 25px;
+	}
 }
 
 .flex-container .flex-img-holder img {
@@ -55,7 +64,6 @@
 }
 
 .flex-container .flex-text-holder p {
-	margin: 50px;
 	max-width: 100%;
 	text-align: left;
 }
