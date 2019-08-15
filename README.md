@@ -9,6 +9,8 @@ Documenting my Life Musings :)
 3) Run `bundle install` at project home
 4) Run `bundle exec jekyll serve` at project home
 
-# Credits
+# TODO:
+* https://alligator.io/css/transition-box-shadows/
 
+# Credits
 Thanks to @chrisbobbe for this jekyll theme - https://github.com/chrisbobbe/jekyll-theme-prologue
