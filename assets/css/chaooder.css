@@ -54,7 +54,7 @@
 
 @media screen and (max-width: 961px) {
 	.flex-container .flex-text-holder p {
-		margin: 25px;
+		margin: 15px;
 	}
 }
 
@@ -74,7 +74,7 @@
 	background-color: white;
 	border: 2px solid grey;
 	border-radius: 20px;
-	margin: 20px;
+	margin: 15px;
 	text-align: left;
 }
 
