@@ -15,10 +15,10 @@ order: 7
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
-    <div class="6u 12u$(mobile) my-contact-form-inputs"><input type="text" name="name" placeholder="Name" /></div>
-    <div class="6u$ 12u$(mobile) my-contact-form-inputs"><input type="text" name="email" placeholder="Email" /></div>
+    <div class="6u 12u$(mobile) my-contact-form-inputs"><label><input type="text" name="name" placeholder="Name" /></label></div>
+    <div class="6u$ 12u$(mobile) my-contact-form-inputs"><label><input type="text" name="email" placeholder="Email" /></label></div>
     <div class="12u$ my-contact-form-inputs">
-      <textarea name="message" placeholder="Message"></textarea>
+      <label><textarea name="message" placeholder="Message"></textarea></label>
     </div>
     <div class="12u$">
       <input type="submit" value="Send Message" />
