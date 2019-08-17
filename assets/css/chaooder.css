@@ -44,9 +44,9 @@
 	.flex-container .flex-img-holder {
 		flex: 1;
 	}
-	.flex-container .flex-text-holder {
+	/*.flex-container .flex-text-holder {
 		flex: 1.62;
-	}
+	}*/
 	.flex-container .flex-text-holder p {
 		margin: 50px;
 	}
@@ -72,14 +72,46 @@
 /* Experiences Elements */
 .experience-item {
 	background-color: white;
-	border: 1px solid lightgrey;
-	border-radius: 8px;
+	border: 2px solid grey;
+	border-radius: 20px;
 	margin: 20px;
 	text-align: left;
 }
 
+@media screen and (min-width: 961px) {
+	.experience-item {
+		margin: 50px;
+	}
+}
+
 .experience-desc {
-	margin: 10px 20px;
+	margin: 10px 20px 15px 20px;
+	color: black;
+}
+
+.experience-desc h1, 
+.experience-desc h2, 
+.experience-desc h3, 
+.experience-desc h4, 
+.experience-desc h5, 
+.experience-desc h6 {
+	color: black;
+}
+
+.experience-desc h5 {
+	font-size: 0.9em;
+	margin-bottom: 0.25em;
+}
+
+.experience-desc h6 {
+	font-size: 0.85em;
+	font-style: italic;
+}
+
+.experience-desc ul {
+	font-size: 0.8em;
+	line-height: 1.5em;
+	margin-bottom: 0.5em;
 }
 
 .experience-desc p {
