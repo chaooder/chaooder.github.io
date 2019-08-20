@@ -3,7 +3,7 @@ subtitle: Life Musings of a Science & Tech Geek
 description: >- # this means to ignore newlines until "baseurl:"
 author: Yong Chao Tommy, Yong
 email: yongyct@gmail.com
-avatar: 
+avatar: assets/images/bitmoji.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
