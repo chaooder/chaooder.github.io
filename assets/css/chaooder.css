@@ -199,6 +199,10 @@
 	overflow: hidden;
 }
 
+.flex-container .skills-logo a {
+	border-bottom: none;
+}
+
 .flex-container img {
 	max-height: 100%;
 	max-width: 100%;
