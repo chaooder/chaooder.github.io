@@ -16,6 +16,22 @@
 }
 
 
+/* Nav&Logo Elements */
+.nav-top-item {
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav-top-icon {
+	flex: 1;
+	position: inherit!important;
+}
+
+.nav-top-titles {
+	flex: 2.5;
+}
+
+
 /* Intro Elements */
 .my-social-icons {
 	margin:0.5cm 0cm 0cm 0cm;
