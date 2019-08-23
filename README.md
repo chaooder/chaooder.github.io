@@ -1,6 +1,6 @@
 # My Website
 Documenting my Life Musings :)
-* https://yongyct.github.io/
+* https://tommyyong.ml/
 
 # Getting Started
 ## Local Development
