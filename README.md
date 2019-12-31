@@ -9,6 +9,11 @@ Documenting my Life Musings :)
 3) Run `bundle install` at project home
 4) Run `bundle exec jekyll serve` at project home
 
+# Notes
+* New logos to be added to `assets/images/xxx` folder, where `xxx` is the type of logo added
+* `_sections` folder contains the contents that is populated in the subsections under main page (e.g. certifications, skills, experiences, etc)
+* `_site/photography.html` contains contents for hobby photographs
+
 # TODO:
 * https://alligator.io/css/transition-box-shadows/
 
